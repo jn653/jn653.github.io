@@ -1,8 +1,7 @@
 ---
-layout: post
-title:  "Welcome to Jekyll!"
-date:   2023-12-16 14:51:25 -0500
-categories: jekyll update
+layout: ISRA Web Application Video
+title:  (https://youtube.com/clip/UgkxfcEIcSqZwEpIPu6t2paiKQIQWduiuPO3?si=SKn45dcbnr4Re46_)
+
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
